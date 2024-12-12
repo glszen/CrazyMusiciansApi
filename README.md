@@ -2,7 +2,8 @@
 
 This ASP.NET Core Web API manages "Crazy Musicians" data, supporting basic CRUD operations with validation and search functionality.
 
-Features
+
+//Features
 
 CRUD Operations: Create, Read, Update, and Delete musicians.
 
@@ -12,7 +13,8 @@ CRUD Operations: Create, Read, Update, and Delete musicians.
 
 *Routing: Clean API routes for interacting with musician data.
 
-Endpoints
+
+//Endpoints
 
 *GET /api/musicians: Get all musicians.
 
@@ -28,7 +30,8 @@ Endpoints
 
 *DELETE /api/musicians/{id}: Delete a musician by ID.
 
-Validation
+
+//Validation
 
 Validates input data (e.g., name, genre, instrument) for correct format and required fields.
 
